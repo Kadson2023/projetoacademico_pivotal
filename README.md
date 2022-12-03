@@ -1,4 +1,6 @@
 # projetoacademico_pivotal
 ```
-Uma página web que obtém imagens aletórias de gatinhos de uma API e o apresenta na página sempre que a página carrega.
+-- Nosso trabalho de Engenharia de Software --
+-- Pedro Nunes 21214290007 --
+-- Kadson Tavares 21214290012 --
 ```
